@@ -1,0 +1,32 @@
+prof-begel:
+    display_name: "Andrew Begel"
+    webpage: "https://andrewbegel.com"
+    github: abegel
+    image: /img/people/abegel.png
+    role: organizers
+    org: Carnegie Mellon University
+    bio: Associate Professor
+
+prof-somayeh-asadi:
+    display_name: "Somayeh Asadi"
+    webpage: "https://www.ae.psu.edu/department/directory-detail-g.aspx?q=SXA51"
+    image: /img/people/asadi.jpg
+    role: organizers
+    org: Penn State University
+    bio: Associate Professor
+
+prof-richard-kubina:
+    display_name: "Richard Kubina, Jr."
+    webpage: "https://ed.psu.edu/directory/dr-richard-kubina-jr"
+    image: /img/people/kubina.jpg
+    role: organizers
+    org: Penn State University
+    bio: Professor of Education
+
+taniya-mishra:
+    display_name: "Taniya Mishra"
+    webpage: "https://mysurestart.com/about"
+    image: /img/people/mishra.png
+    role: organizers
+    org: SureStart
+    bio: Founder and CEO    

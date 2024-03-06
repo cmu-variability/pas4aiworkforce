@@ -61,6 +61,8 @@ navigation:
     link: /
   - title: People
     link: /#people
+  - title: Application
+    link: /application.html
   - title: Projects
     link: /projects.html
 

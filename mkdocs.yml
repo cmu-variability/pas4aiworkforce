@@ -1,0 +1,45 @@
+site_name: "PAS4AI Workforce"
+site_url: "https://cmu-variability.github.io/pas4aiworkforce/"
+
+theme:
+  name: "material"
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  palette:
+    primary: "indigo"
+    accent: "indigo"
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - toc.integrate
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - announce.dismiss
+
+
+markdown_extensions: 
+  - admonition
+  - md_in_html
+  - toc:
+      permalink: true
+      title: On this page
+      toc_depth: 4
+
+plugins:
+  - search
+  - markdownextradata
+
+extra_css:
+  - css/main.css
+
+nav:
+  - Home: index.md
+  - Application: application.md
+  - People: people.md
+

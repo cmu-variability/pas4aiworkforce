@@ -1,0 +1,25 @@
+{
+  "name": "cmu-variability.github.io-pas4aiworkforce",
+  "version": "1.0.0",
+  "description": "Homepage for PAS4AI Workforce",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --include-path scss scss/main.scss css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmu-variability.github.io/pas4aiworkforce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmu-variability.github.io/pas4aiworkforce.git/issues"
+  },
+  "homepage": "https://github.com/cmu-variability.github.io/pas4aiworkforce.git/#readme",
+  "dependencies": {
+    "uikit": "^3.0.0-rc.26"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}

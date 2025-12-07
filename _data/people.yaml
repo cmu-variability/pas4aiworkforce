@@ -1,0 +1,36 @@
+- name: Andrew Begel
+  role: PI
+  affiliation: Carnegie Mellon University
+  website: https://andrewbegel.com
+  bio: Associate Professor
+  photo: abegel.jpg
+
+- name: Somayeh Asadi
+  role: PI 
+  affiliation: University of Virginia
+  website: https://engineering.virginia.edu/faculty/somayeh-asadi
+  bio: Professor
+  photo: asadi.jpg
+
+- name: Richard Kubina, Jr.
+  role: PI  
+  affiliation: Penn State University
+  website: https://ed.psu.edu/directory/dr-richard-kubina-jr
+  bio: Professor of Education
+  photo: kubina.jpg
+
+- name: Taniya Mishra
+  role: Senior 
+  affiliation: SureStart, LLC
+  website: https://mysurestart.com/about
+  bio: Founder and CEO
+  photo: mishra.jpg
+
+- name: D. Matthew Boyer
+  role: Evaluator 
+  affiliation: Clemson University
+  website: https://www.clemson.edu/cecas/departments/ese/people/esed-faculty/boyer.html
+  bio: Research Associate Professor
+  photo: boyer.png
+
+

@@ -26,12 +26,12 @@ Applications for the PAS4AI Workforce 2026 Program are due January 31, 2026.
 The application will ask you to submit the following items.
 
   1. Full name
-  1. Self-attestation or medical documentation that you identify as autistic or have Asperger's Syndrome. The course is specially designed for autistic community college students. Please [contact us](mailto:pas4aiworkforce@gmail.com) and explain why you would still like to be considered for the program.
+  1. Declaration or medical documentation that you identify as autistic or have Asperger's Syndrome. The course is specially designed for autistic community college students. If you do *not* identify as autistic or having Asperger's, please [contact us](mailto:pas4aiworkforce@gmail.com) and explain why you would still like to be considered for the program.
   1. Email address
   1. Street Address
   1. Age
   1. Driver's license or government ID
-  1. Self-attestation that you are legally eligible to work in the USA
+  1. Declaration that you are legally eligible to work in the USA
   1. 2-year college you attend or have attended and the degree program you are enrolled in
   1. Transcript from the college
   1. Name and email of a college professor who can write you a letter of recommendation

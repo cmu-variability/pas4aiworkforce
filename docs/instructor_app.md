@@ -37,11 +37,11 @@ Hours per week: 12 hours a week
 
 **Compensation:** $7,000 per course
 
-# About the Course
+## About the Course
 The Preparing Autistic Students for the AI Workforce (PAS4AI) course aims to design and deliver accessible, team-based learning experiences that prepare autistic community college students for AI-integrated careers. Our interdisciplinary curriculum combines AI fundamentals, Responsible AI practices, and leadership skills through experiential learning. Students work in small, instructor-led project teams to develop real-world AI applications while building communication confidence, technical fluency, and psychological safety in teamwork.
 In Spring 2026, the course will bring together 9 students for collaborative AI projects co-instructored by graduate and postdoctoral researchers. Each instructor supports one student team, guiding both their technical development and professional growth.
 
-# Role Overview
+## Role Overview
 AI Project Instructors are educators, researchers, and/or practitioners who guide undergraduate teams of 3-5 students in applied AI projects. Our research team has created a 10-week curriculum along with instructional guidance and teaching materials for instructors to use to teach the course. Students will complete and remix a series of AI projects that reflect the goals and beliefs about AI development, social relationships, and emotional wellbeing and personal identities. Instructors provide:
 - Technical guidance in areas such as Python programming, LLM integration, API-based project development, prompt engineering, model evaluation, and ethical AI analysis.
 - Coaching on teamwork, communication, and inclusive collaboration practices.
@@ -52,7 +52,7 @@ AI Project Instructors are educators, researchers, and/or practitioners who guid
 
 Instructors are encouraged to bring their own research and professional interests into the course to co-create authentic, mutually beneficial learning experiences.
 
-# Benefits for Instructors
+## Benefits for Instructors
 - Gain hands-on experience teaching and instructing diverse student teams on real AI projects.
 - Build a portfolio of teaching, codesign, and instructoring artifacts relevant to academia and industry.
 - Collaborate within an interdisciplinary community of practice focused on Responsible AI, education, and accessibility.
@@ -61,13 +61,13 @@ Instructors are encouraged to bring their own research and professional interest
 - Stipend of $7,000 for teaching the course.
 
 
-# Required Qualifications
+## Required Qualifications
 - Enrollment in or completion of a graduate degree (Master’s or Ph.D.) in Computer Science, Artificial Intelligence, Human–Computer Interaction, Learning Sciences, or a related field.
 - Demonstrated experience teaching, instructoring, or facilitating technical learning (e.g., course instruction, coding clubs, lab instructoring, TA roles).
 - Strong interpersonal communication and commitment to inclusive, supportive pedagogy.
 - Ability to articulate technical concepts clearly and guide student inquiry rather than simply provide answers.
 
-# Preferred Qualifications
+## Preferred Qualifications
 - Prior teaching experience at the high school, college, or community level, or experience instructing neurodiverse learners.
 - Familiarity with Responsible AI, Human-AI Interaction, or Computing Education research.
 - Interest in integrating personal or lab research into project-based instruction.
@@ -75,14 +75,14 @@ Instructors are encouraged to bring their own research and professional interest
 - Commitment to collaborative teaching and iterative improvement through feedback and reflection.
 - Experience interacting with autistic or neurodivergent individuals.
   
-**Training and Expectations**
+## Training and Expectations
 Instructors will participate in a two-part orientation and ongoing community meetings designed to prepare them for inclusive, empathetic instruction. Training emphasizes:
 - Identifying tacit prerequisite knowledge and preparing to teach foundational concepts as needed.
 - Reframing knowledge gaps into opportunities for growth.
 - Supporting interdependence and reflective teamwork in AI learning environments.
 
 
-# To Apply
+## To Apply
 📩  Please submit the following materials to Andrew Begel (abegel@andrew.cmu.edu) and Ren Butler (ddbutler@andrew.cmu.edu):
 
 - A short statement (≤300 words) describing your motivation for instructing and how your research or teaching interests align with PAS4AI and SAFER-AI.

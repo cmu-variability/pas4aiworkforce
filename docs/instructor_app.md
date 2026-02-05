@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Insutrctor Application
+title: Insturctor Application
 
 ---
 
@@ -8,13 +8,13 @@ title: Insutrctor Application
 
 🌟 Now Recruiting: AI Project Instructors – Spring 2026 (Paid, $7,000)
 
-Join PAS4AI, an inclusive research and education initiative at Carnegie Mellon, to instruct autistic community college student teams developing real-world AI projects that advance Responsible AI, collaboration, and accessibility.
+Join PAS4AI, an inclusive research and education initiative at Carnegie Mellon University, to instruct autistic community college student teams developing real-world AI projects that advance Responsible AI, collaboration, and accessibility.
 
 As an AI Project Instructor, you’ll guide a small student team in technical development, inclusive teamwork, and reflective AI design, all while integrating your own research interests into hands-on teaching. Instructors receive training in social–emotional learning and inclusive pedagogy, work with a supportive interdisciplinary community, and earn a $7,000 stipend.
 
 🗓️ March 30 – June 5, 2026 | 2 days per week, 1–2:30 PM ET | 9 students total
 
-💡 Ideal for graduate students or postdocs with teaching or instructoring experience.
+💡 Ideal for graduate students or postdocs with teaching or instruction experience.
 
 📩  [Apply](https://forms.gle/asec6s6RcgZEgZVF7) by submitting a 300-word statement on your motivation and teaching experience, a short CV, and optional sample of work or portofilio.
 

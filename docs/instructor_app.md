@@ -6,19 +6,23 @@ title: Insutrctor Application
 
 <img class="banner" src="../assets/images/banner.png"/>
 
-# 🌟 Now Recruiting: AI Project Instructors – Spring 2026 (Paid, $7,000)
+🌟 Now Recruiting: AI Project Instructors – Spring 2026 (Paid, $7,000)
 
 Join PAS4AI, an inclusive research and education initiative at Carnegie Mellon, to instruct autistic community college student teams developing real-world AI projects that advance Responsible AI, collaboration, and accessibility.
+
 As an AI Project Instructor, you’ll guide a small student team in technical development, inclusive teamwork, and reflective AI design, all while integrating your own research interests into hands-on teaching. Instructors receive training in social–emotional learning and inclusive pedagogy, work with a supportive interdisciplinary community, and earn a $7,000 stipend.
 
 🗓️ March 30 – June 5, 2026 | Mondays 1–2:30 PM ET | 9 students total
 
 💡 Ideal for graduate students or postdocs with teaching or instructoring experience.
 
-📩  Apply by submitting a 300-word statement on your motivation and teaching experience, and short CV to Andrew Begel and Ren Butler (abegel at andrew.cmu.edu, ddbutler at andrew.cmu.edu): 
+📩  [Apply](https://forms.gle/asec6s6RcgZEgZVF7) by submitting a 300-word statement on your motivation and teaching experience, a short CV, and optional sample of work or portofilio.
 
 Applications are accepted on a rolling basis until the position is filled. 
 
+For more information visit: https://cmu-variability.github.io/pas4aiworkforce/instructor_app/ 
+
+For questions, please contact Andrew Begel and Ren Butler (abegel@andrew.cmu.edu, ddbutler@andrew.cmu.edu): 
 # Quick Details
 
 **Location:** Remote / Hybrid (Carnegie Mellon University)
@@ -83,7 +87,7 @@ Instructors will participate in a two-part orientation and ongoing community mee
 
 
 ## To Apply
-📩  Please submit the following materials to Andrew Begel (abegel@andrew.cmu.edu) and Ren Butler (ddbutler@andrew.cmu.edu):
+📩  Please submit the following materials to Andrew Begel (abegel@andrew.cmu.edu) and Ren Butler (ddbutler@andrew.cmu.edu) via the [application form](https://forms.gle/asec6s6RcgZEgZVF7)  :
 
 - A short statement (≤300 words) describing your motivation for instructing and how your research or teaching interests align with PAS4AI and SAFER-AI.
 - A brief CV or résumé highlighting teaching and/or AI or computing education research experience.

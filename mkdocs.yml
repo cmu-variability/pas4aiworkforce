@@ -40,6 +40,7 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Application: application.md
+  - Students Apply: application.md
+  - Insutrctors Apply: instructor_app.md
   - People: people.md
 

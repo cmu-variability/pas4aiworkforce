@@ -1,3 +1,11 @@
+---
+layout: default
+title: Insutrctor Application
+
+---
+
+<img class="banner" src="../assets/images/banner.png"/>
+
 # 🌟 Now Recruiting: AI Project Instructors – Spring 2026 (Paid, $7,000)
 
 Join PAS4AI, an inclusive research and education initiative at Carnegie Mellon, to instruct autistic community college student teams developing real-world AI projects that advance Responsible AI, collaboration, and accessibility.

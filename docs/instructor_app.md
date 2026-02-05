@@ -47,6 +47,7 @@ In Spring 2026, the course will bring together 9 students for collaborative AI p
 
 ## Role Overview
 AI Project Instructors are educators, researchers, and/or practitioners who guide undergraduate teams of 3-5 students in applied AI projects. Our research team has created a 10-week curriculum along with instructional guidance and teaching materials for instructors to use to teach the course. Students will complete and remix a series of AI projects that reflect the goals and beliefs about AI development, social relationships, and emotional wellbeing and personal identities. Instructors provide:
+
 - Technical guidance in areas such as Python programming, LLM integration, API-based project development, prompt engineering, model evaluation, and ethical AI analysis.
 - Coaching on teamwork, communication, and inclusive collaboration practices.
 - Coaching on self-reflection and goal-setting
@@ -66,12 +67,14 @@ Instructors are encouraged to bring their own research and professional interest
 
 
 ## Required Qualifications
+
 - Enrollment in or completion of a graduate degree (Master’s or Ph.D.) in Computer Science, Artificial Intelligence, Human–Computer Interaction, Learning Sciences, or a related field.
 - Demonstrated experience teaching, instructoring, or facilitating technical learning (e.g., course instruction, coding clubs, lab instructoring, TA roles).
 - Strong interpersonal communication and commitment to inclusive, supportive pedagogy.
 - Ability to articulate technical concepts clearly and guide student inquiry rather than simply provide answers.
 
 ## Preferred Qualifications
+
 - Prior teaching experience at the high school, college, or community level, or experience instructing neurodiverse learners.
 - Familiarity with Responsible AI, Human-AI Interaction, or Computing Education research.
 - Interest in integrating personal or lab research into project-based instruction.
@@ -81,6 +84,7 @@ Instructors are encouraged to bring their own research and professional interest
   
 ## Training and Expectations
 Instructors will participate in a two-part orientation and ongoing community meetings designed to prepare them for inclusive, empathetic instruction. Training emphasizes:
+
 - Identifying tacit prerequisite knowledge and preparing to teach foundational concepts as needed.
 - Reframing knowledge gaps into opportunities for growth.
 - Supporting interdependence and reflective teamwork in AI learning environments.
